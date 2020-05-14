@@ -12,6 +12,8 @@ PuzzleMax is an application written in Java using Android Studio. It is designed
 
 Download all the provided files and and place them into a folder. While in Android Studio, press file -> open, and then navigate to the folder you placed the files into. Once successfully opened, go to tools -> AVD manager -> Create Virtual Device -> Pixel 2 -> Nougat. Finally, select a name for your virtual device and hit the finish button. Once done, you can press shift + F10 to run the program.
 
+Click here for a video walkthrough of the application: 
+
 ## Support
 
 If you need assistance, please contact me at davionclark@yahoo.com.
